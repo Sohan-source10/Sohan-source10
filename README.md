@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
-<h1 align="center">Hi 👋, I'm Sohan Chatterjee</h1>
+<h1 align="center">Hi👋🏻, I'm Sohan Chatterjee</h1>
 <h3 align="center">I turn bugs into features…</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan-source10&label=Profile%20views&color=0e75b6&style=flat" alt="sohan-source10" /> </p>
